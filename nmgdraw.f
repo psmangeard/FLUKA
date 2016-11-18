@@ -144,7 +144,6 @@ c     &     XSCO,YSCO,ZSCO,atrack
      &     XSOEVT(1),YSOEVT(1),ZSOEVT(1)
 ccccccc End Pierre-Simon 10/23/2016
 
-
           IF(
      &      (MREG.eq.19.and.NEWREG.eq.1).or.
      &      (MREG.eq.1.and.NEWREG.eq.19).or.
